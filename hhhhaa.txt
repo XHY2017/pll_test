@@ -1,0 +1,7 @@
+git add .
+git commit -m "xxx"
+git pull -r
+git push git@github.com:XHY2017/pll_test.git
+
+
+
